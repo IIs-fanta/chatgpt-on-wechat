@@ -261,16 +261,3 @@ volumes:
   
   [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/qApznZ?referralCode=RC3znh)
 
-## 常见问题
-
-FAQs： <https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs>
-
-或直接在线咨询 [项目小助手](https://chat.link-ai.tech/app/Kv2fXJcH)  (beta版本，语料完善中，回复仅供参考)
-
-## 联系
-
-欢迎提交PR、Issues，以及Star支持一下。程序运行遇到问题可以查看 [常见问题列表](https://github.com/zhayujie/chatgpt-on-wechat/wiki/FAQs) ，其次前往 [Issues](https://github.com/zhayujie/chatgpt-on-wechat/issues) 中搜索。
-
-如果你想了解更多项目细节，与开发者们交流更多关于AI技术的实践，欢迎加入星球:
-
-<a href="https://public.zsxq.com/groups/88885848842852.html"><img width="360" src="./docs/images/planet.jpg"></a>
