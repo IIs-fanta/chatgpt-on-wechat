@@ -20,11 +20,6 @@ https://user-images.githubusercontent.com/26161723/233777277-e3b9928e-b88f-43e2-
 
 Demo made by [Visionn](https://www.wangpc.cc/)
 
-# 交流群
-
-添加小助手微信进群，请备注 "wechat"：
-
-<img width="240" src="./docs/images/contact.jpg">
 
 # 更新日志
 
